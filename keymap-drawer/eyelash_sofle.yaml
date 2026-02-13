@@ -27,8 +27,8 @@ layers:
   - O
   - P
   - {t: \, s: '|'}
-  - B
-  - A
+  - {t: '`', s: '~'}
+  - {t: A, h: '$$mdi:apple-keyboard-shift$$'}
   - S
   - D
   - {t: F, h: layer3}
