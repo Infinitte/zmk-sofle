@@ -1,7 +1,6 @@
 manifest:
   remotes:
     - name: zmkfirmware
-      revision: v0.3
       url-base: https://github.com/zmkfirmware
       # Additional modules containing boards/shields/custom code can be listed here as well.
       # See:
